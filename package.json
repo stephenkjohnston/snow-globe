@@ -6,6 +6,7 @@
   "repository": {
     "url": "https://github.com/stephenkjohnston/snow-globe.git"
   },
+  "homepage": "https://stephenkjohnston.github.io/snow-globe/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
